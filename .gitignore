@@ -1,0 +1,5 @@
+/node_modules/
+/dist/
+/.vscode/
+/vite.config.js
+/package.json
